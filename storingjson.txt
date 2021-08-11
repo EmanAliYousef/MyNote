@@ -1,0 +1,1 @@
+{"name":"eman","age":"27"}[object Object][object Object]{"name":"ali","age":"27"}
